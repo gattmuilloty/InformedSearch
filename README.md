@@ -1,4 +1,4 @@
-# CS 580 - Assignment 2
+# 15-Slide Puzzle Solver Using AI
 
 Matthew Guilloty - 02/23/2023
 
